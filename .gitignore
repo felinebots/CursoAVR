@@ -1,0 +1,9 @@
+*.aux
+manual_prueba.bbl
+*.blg
+manual_prueba.dvi
+*.ilg
+manual_prueba.idx
+*.log
+manual_prueba.ind
+*.ps
